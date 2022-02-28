@@ -1,0 +1,23 @@
+.game{
+    border: 1px solid black;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+.taster{
+    height: 100px;
+    width: 100px;
+}
+.buttons{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.kontrole{
+    margin-top: 5px;
+    display: flex;
+    width: 500px; 
+    margin: auto;
+    justify-content: space-between;
+}
